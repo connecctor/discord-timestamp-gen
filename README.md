@@ -30,13 +30,13 @@ A simple tool to generate Discord's dynamic timestamps (like `<t:1620000000:R>`)
 
 ### Format Options
 
-| `t` | Short time | 9:41 PM 
-| `T` | Long time | 9:41:30 PM 
-| `d` | Short date | 30/04/2025 
-| `D` | Long date | 30 April 2025 
-| `f` | Short date/time | 30 April 2025 9:41 PM 
-| `F` | Long date/time | Wednesday, 30 April 2025 9:41 PM 
-| `R` | Relative time | "in 5 minutes", "2 hours ago" 
+   - | `t` | Short time | 9:41 PM 
+   - | `T` | Long time | 9:41:30 PM 
+   - | `d` | Short date | 30/04/2025 
+   - | `D` | Long date | 30 April 2025 
+   - | `f` | Short date/time | 30 April 2025 9:41 PM 
+   - | `F` | Long date/time | Wednesday, 30 April 2025 9:41 PM 
+   - | `R` | Relative time | "in 5 minutes", "2 hours ago" 
 
 ## Notes
 - The tool will automatically check for Node.js and guide you to install it if missing
