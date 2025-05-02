@@ -10,6 +10,7 @@ A simple tool to generate Discord's dynamic timestamps (like `<t:1620000000:R>`)
 2. **Download the files**  
    - Click the green "Code" button and download as ZIP
    - Or clone the repository:
+  
    - 
      ```bash
      git clone https://github.com/connecctor/discord-timestamp-generator.git
